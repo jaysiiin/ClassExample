@@ -12,12 +12,15 @@ namespace ClassExample_Fall2016
         {
             Console.WriteLine("This is the beginning of our class example.");
             Console.WriteLine();
-
+            
+            //our first person instance 
             Person thisPerson = new Person();
             //have to add name so it would print out 
             thisPerson.Greet("Jason");
 
-            Person secondPerson = new Person();
+
+            //our second person instance
+            Person secondPerson = new Person(25, "Lupe", "brown", "Whattup");
             Console.WriteLine();
             secondPerson.Greet("Mike");
             Console.WriteLine();
