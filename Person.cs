@@ -13,7 +13,7 @@ namespace ClassExample_Fall2016
         private string name;
         private string eyeColor;
         public string greeting;
-        
+
 
         //properties
 
@@ -22,11 +22,21 @@ namespace ClassExample_Fall2016
 
         public Person()
         {
-        //can add this. to make SURE it make it consider the private classes above
+            //can add this. to make SURE it make it consider the private classes above
             age = 20;
             name = "John Doe";
             eyeColor = "brown";
             greeting = "nice to meet you.";
+
+        }
+
+        public Person(int newAge, string newName, string newEyeColor, string newGreeting)
+        {
+            age = newAge;
+            name = newName;
+            eyeColor = newEyeColor;
+            greeting = newGreeting;
+
 
 
         }
