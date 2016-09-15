@@ -17,6 +17,15 @@ namespace ClassExample_Fall2016
 
         //properties
 
+        public int Age
+        {
+
+            get { return this.age; }
+            set { this.age = value; }
+
+
+        }
+
 
         //constructors
 
