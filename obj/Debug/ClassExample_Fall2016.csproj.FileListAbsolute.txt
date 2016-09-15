@@ -1,1 +1,6 @@
 c:\users\wecancodeit\documents\visual studio 2015\Projects\ClassExample_Fall2016\ClassExample_Fall2016\bin\Debug\ClassExample_Fall2016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ClassExample_Fall2016\ClassExample_Fall2016\bin\Debug\ClassExample_Fall2016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ClassExample_Fall2016\ClassExample_Fall2016\bin\Debug\ClassExample_Fall2016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ClassExample_Fall2016\ClassExample_Fall2016\obj\Debug\ClassExample_Fall2016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ClassExample_Fall2016\ClassExample_Fall2016\obj\Debug\ClassExample_Fall2016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ClassExample_Fall2016\ClassExample_Fall2016\obj\Debug\ClassExample_Fall2016.pdb

@@ -40,7 +40,8 @@ namespace ClassExample_Fall2016
         public void Greet(string name)
         {
         //provides an output for this method 
-            Console.WriteLine("Hello" + name + ", " + greeting);
+            Console.WriteLine("Hello " + name + ", " + greeting);
+            Console.WriteLine(Description());
         }
 
         //returns the users age and name in a description in a string
