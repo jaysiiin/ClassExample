@@ -20,6 +20,19 @@ namespace ClassExample_Fall2016
 
         //constructors
 
+        public Person()
+        {
+        //can add this. to make SURE it make it consider the private classes above
+            age = 20;
+            name = "John Doe";
+            eyeColor = "brown";
+            greeting = "nice to meet you.";
+
+
+        }
+
+
+
         //method
 
 
